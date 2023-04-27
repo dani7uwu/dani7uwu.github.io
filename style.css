@@ -1,0 +1,17 @@
+body{
+    background-color:pink;
+    color:black;
+    font-family: 'Lobster', cursive;
+
+}
+h1 {
+    color:rgb(186, 112, 255)
+}
+p{
+    color:rgb(207, 120, 156)
+}
+
+.max-capy{
+    width: 200px;
+}
+
